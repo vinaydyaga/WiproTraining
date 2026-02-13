@@ -20,7 +20,7 @@ namespace practice
                     if (i!=j&&arr[i] == arr[j])
                     {
                         c++;
-                        //break;
+                        
                     }
                 }
                 if (c == 0)
